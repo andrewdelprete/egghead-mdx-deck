@@ -1,0 +1,14 @@
+{
+  "name": "egghead-mdx-deck",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andrew Del Prete <pathsofdesign@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mdx-deck": "^1.0.3"
+  },
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx"
+  }
+}
